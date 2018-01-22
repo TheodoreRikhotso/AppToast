@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "186313553974-jk93nvits120dcc705sig2ebl98illug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.apptoast",
+            "certificate_hash": "c22772ab9ec7c792a731af6d0f709f555a4a77ec"
+          }
+        },
+        {
           "client_id": "186313553974-s3hvokmh60pqnrqh2i2a7qt3ilac35nr.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {

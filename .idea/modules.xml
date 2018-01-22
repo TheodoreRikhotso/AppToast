@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AppToast.iml" filepath="$PROJECT_DIR$/AppToast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AppToast.iml" filepath="$PROJECT_DIR$/.idea/AppToast.iml" />
+      <module fileurl="file://C:\Users\Admin\AndroidStudioProjects\AppToast\AppToast.iml" filepath="C:\Users\Admin\AndroidStudioProjects\AppToast\AppToast.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
